@@ -6,7 +6,7 @@ include "pages/db.php";
 <html >
 <head>
   <meta charset="UTF-8">
-  <title>Pengaduan2017</title>
+  <title>Pengadaian2017</title>
   
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css">
 
@@ -15,14 +15,14 @@ include "pages/db.php";
 
       <link rel="stylesheet" href="css/style.css">
 
-  
+
 </head>
 
 <body>
  <style>
  .war
  {
-    color : red;
+    color : green;
  }
  </style>
 <div class="pen-title">
